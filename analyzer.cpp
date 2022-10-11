@@ -75,3 +75,5 @@ int main()
     cout << "Search for 'aaaaa' with Binary Search: i=" << result.index << " t=" << result.totalTime.count() << "s" << endl;
     return 0;
 }
+
+eoiofujosfuosfuoseu
